@@ -1,1 +1,1 @@
-https://github.com/QEDK
+[GitHub](https://github.com/QEDK)
